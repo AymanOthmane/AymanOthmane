@@ -8,11 +8,14 @@
 
 </div>
 
-- 🌱 I’m studied Quantitative Finance at Paris-Dauphine PSL and currently studying Applied Mathematics and Probability
-- 👀 I’m interested in Financial Markets, History, Cosmology & Astrophysique and Cooking
-- 📫 How to reach me : ayman.othmane@outlook.com
-- 📄 Know about my experiences : [My Resume](https://github.com/user-attachments/files/17235527/Resume.Ayman.Othmane.pdf)
-- ⚡ Fun facts I lived in 5 countries, started a digital advertisement company in 2018 and Finance Society in 2021
+- 🌱 I studied Quantitative Finance at Paris-Dauphine PSL and am currently studying Applied Mathematics and Probability.
+- 👀 I’m interested in Financial Markets, History, Cosmology & Astrophysics, and Cooking.
+- 📫 How to reach me: ayman.othmane@outlook.com
+- 📄 Learn more about my experiences: [My Resume](https://github.com/user-attachments/files/17235527/Resume.Ayman.Othmane.pdf)
+- 💻 Technical Skills: Python, C#, SQL, VBA, MATLAB, R, C++, Bloomberg BQL
+- 🎓 Certifications: AMF Certification, Bloomberg Market Concepts
+- ⚡ Fun facts: I have lived in 5 countries, started a digital advertisement company in 2018, and founded a Finance Society in 2021.
+
 <!---
 AymanOthmane/AymanOthmane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
