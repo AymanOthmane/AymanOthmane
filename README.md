@@ -8,7 +8,7 @@
 
 </div>
 
-- 🌱 I studied Quantitative Finance at Paris-Dauphine PSL and am currently studying Applied Mathematics and Probability.
+- 🌱 I studied Quantitative Finance at Paris-Dauphine PSL and am currently studying Applied Mathematics and Data Science.
 - 👀 I’m interested in Financial Markets, History, Cosmology & Astrophysics, and Cooking.
 - 📫 How to reach me: ayman.othmane@outlook.com
 - 📄 Learn more about my experiences: [My Resume](https://github.com/user-attachments/files/17235527/Resume.Ayman.Othmane.pdf)
