@@ -10,7 +10,7 @@
 
 - 🌱 I studied Quantitative Finance at Paris-Dauphine PSL and am currently studying Applied Mathematics and Data Science.
 - 👀 I’m interested in Financial Markets, History, Cosmology & Astrophysics, and Cooking.
-- 📫 How to reach me: ayman.othmane@outlook.com
+- 📫 How to reach me: ayman.othmane@dauphine.eu
 - 📄 Learn more about my experiences: [My Resume](https://github.com/user-attachments/files/17235527/Resume.Ayman.Othmane.pdf)
 - 💻 Technical Skills: Python, C#, SQL, VBA, MATLAB, R, C++, Bloomberg BQL
 - 🎓 Certifications: AMF Certification, Bloomberg Market Concepts
